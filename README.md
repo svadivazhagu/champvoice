@@ -11,18 +11,17 @@ Champion Voice is a real-time voice conversion application that allows users to 
 - Easy-to-use interface for voice transformation settings
 - Multiple voice presets available
 
-## Prerequisites
+## Prerequisites (my stack)
 
-- Windows 10/11 64-bit
+- Windows 11 64-bit
 - VBCable Virtual Audio Driver ([Download Here](https://vb-audio.com/Cable/))
-- Python 3.8 or higher
+- Python 3.11
 - CUDA Toolkit 12.4 (optional, for GPU support)
 
 ## Installation
 
 1. Install VBCable Virtual Audio Driver
 ```bash
-# Follow the installation instructions from VB-Audio website
 
 git clone https://github.com/yourusername/champion-voice.git
 cd champion-voice
